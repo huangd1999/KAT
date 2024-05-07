@@ -20,12 +20,11 @@ Deep Neural Networks (DNNs) have demonstrated remarkable performance in various 
 ## Citation
 If you find our work useful in your research, please consider citing:
 ````
-@InProceedings{Bu_2023_ICCV,
-    author    = {Bu, Qingwen and Huang, Dong and Cui, Heming},
-    title     = {Towards Building More Robust Models with Frequency Bias},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2023},
-    pages     = {4402-4411}
+@misc{huang_kat,
+  author = {Huang, Dong.},
+  title = {KAT},
+  year = {n.d.},
+  note = {[Software]},
+  howpublished = {\url{https://github.com/huangd1999/KAT}},
 }
 ````
